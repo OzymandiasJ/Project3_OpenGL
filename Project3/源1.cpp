@@ -2,7 +2,7 @@
 int main()
 {
 	int x, y;
-	printf("ÇëÊäÈëxµÄÖµ£º");
+	printf("è¯·è¾“å…¥xçš„å€¼ï¼š");
 	scanf_s("%d", &x);
 	if (x < 5)
 		y = 2 * x + 1;
@@ -10,8 +10,14 @@ int main()
 		y = 5 * x - 5;
 	else
 		y = 8 * x - 3;
-	printf("xµÄÖµÎª£º%d,yµÄÖµÎª:%d\n", x, y);
+	printf("xçš„å€¼ä¸ºï¼š%d,yçš„å€¼ä¸º:%d\n", x, y);
 	return 0;
 
+	
+	
+	
+	
+	
+	
 
 }
