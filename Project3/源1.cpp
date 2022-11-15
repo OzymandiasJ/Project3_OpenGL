@@ -13,18 +13,5 @@ int main()
 	printf("x的值为：%d,y的值为:%d\n", x, y);
 	return 0;
 
-	
-	
-	
-
-
-
-	
-
-
-
-
-	
-
 
 }
