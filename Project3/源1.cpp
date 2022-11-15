@@ -12,12 +12,4 @@ int main()
 		y = 8 * x - 3;
 	printf("x的值为：%d,y的值为:%d\n", x, y);
 	return 0;
-
-	
-	
-	
-	
-	
-	
-
 }
